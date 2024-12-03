@@ -8,6 +8,7 @@ This repository serves as a portfolio to showcase my ongoing and completed proje
 # Projects Overview
 
 ## 📂 Machine Learning Projects
+
 |**Project Name**| Project descriptions |
 |------------------|------------------------------------------------------|
 |Project 1| Project description |
