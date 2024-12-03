@@ -8,15 +8,22 @@ This repository serves as a portfolio to showcase my ongoing and completed proje
 # Projects Overview
 
 ## 📂 Machine Learning Projects
-- **Project Name 1**: A concise description of what this project entails, such as implementing supervised or unsupervised learning models to solve a specific problem.  
-- **Project Name 2**: Brief details about another machine learning project, for example, optimization tasks or deep learning experiments.
+|**Project Name**| Project descriptions |
+|------------------|------------------------------------------------------|
+|Project 1| Project description |
+  
 
 ## ✨ Natural Language Processing (NLP) Projects
-- **Project Name 3**: A short summary, such as building sentiment analysis models, named entity recognition, or emotion detection tools.  
-- **Project Name 4**: Overview of other NLP-related tasks like text summarization, language modeling, or translation.
+|**Project Name**| Project descriptions |
+|------------------|------------------------------------------------------|
+|Project 1| Project description |
 
 ## 🚀 Ongoing Work
 - Continuous exploration of **new frameworks**, **algorithms**, and **datasets** to refine my skills and build impactful solutions.
+|**Project Name**| Project descriptions |
+|------------------|------------------------------------------------------|
+|Project 1| Project description |
+
 
 ---
 
